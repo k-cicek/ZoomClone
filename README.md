@@ -11,10 +11,10 @@ You can contact with your friends by sharing [the link](https://warm-peak-12177.
 - Initialize our NodeJS Project 
 - Initialize our first view
 - Create a room id 
-- Add the ability to view our own Video 
-- Add the ability to allow others to stream their video
+- The ability to view our own Video 
+- The ability to allow others to stream their video
 - Add styling
-- Add the ability to create mesages
+- The ability to create mesages
 - Add mute button
 - Add Stop Video button
 
