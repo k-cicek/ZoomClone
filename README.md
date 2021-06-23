@@ -5,7 +5,7 @@ Click demo to try it by yourself!
 
 ## Zoom Clone Demo Link
 
-To start a conversation with your friends [Click Me](https://warm-peak-12177.herokuapp.com/4f42fd17-bad3-4040-b750-015f61a5d66c)
+You can contact with your friends by sharing [the link](https://warm-peak-12177.herokuapp.com/4f42fd17-bad3-4040-b750-015f61a5d66c) with them.
 
 ## Topics
 - Initialize our NodeJS Project 
