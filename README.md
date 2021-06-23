@@ -15,8 +15,7 @@ You can contact with your friends by sharing [the link](https://warm-peak-12177.
 - The ability to allow others to stream their video
 - Add styling
 - The ability to create mesages
-- Add mute button
-- Add Stop Video button
+- Stop button the video and mute the conversation
 
 
 
