@@ -1,6 +1,6 @@
 # Zoom Clone with Node JS👥
 
-A small web app, Zoom clone made using Node JS.
+A small web app, Zoom clone made using Node JS.<br>
 Click demo to try it by yourself!
 
 ## Zoom Clone Demo Link
